@@ -44,7 +44,7 @@ Realtime Protection|True|False|False|Non-Compliant|Real-time protection against 
 
 ## Output Format
 Setting Name|Expected Value|Actual Value|Compliant|Compliance Status|Description|Source
-pgsql
+
 
 | Field             | Description                                              |
 |------------------|----------------------------------------------------------|
